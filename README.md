@@ -1,3 +1,4 @@
 # Text-Classification
 
-The project descriptions are embedded in the notebook
+The project descriptions and implementation can be found in the notebook *"Text classification.ipynb"*
+
